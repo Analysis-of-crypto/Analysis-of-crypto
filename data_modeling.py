@@ -4,4 +4,5 @@ import pandas as pd
 df = pd.read_csv('btc_usdt_1year.csv')
 
 # DataFrame 출력
-print(df)
+print(df
+      )
